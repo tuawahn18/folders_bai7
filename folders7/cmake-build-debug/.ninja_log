@@ -1,0 +1,14 @@
+# ninja log v5
+7	83	7170899738899237	CMakeFiles/folders7.dir/bai5.c.obj	f315ee50d8597fb8
+20	113	7170897664426252	CMakeFiles/folders7.dir/vd3.c.obj	63a3d380aed4dcde
+2	67	7170839679828440	CMakeFiles/folders7.dir/main.c.obj	cf1f23d69c8bc44b
+2	78	7170899738819533	CMakeFiles/folders7.dir/bai1.c.obj	1a9bd33bdd6238a3
+5	78	7170855410030124	CMakeFiles/folders7.dir/bai3.c.obj	26a5df63f7e04428
+1	137	7170905164348922	build.ninja	2049bbe57c4ec1c6
+75	155	7170901361562928	folders7.exe	9906eea979736ebc
+2	71	7170849678140982	CMakeFiles/folders7.dir/bai2.c.obj	a7d10c86c721dbcd
+7	75	7170901360810696	CMakeFiles/folders7.dir/vd2.c.obj	a35ecacde1a61c77
+7	100	7170887930317307	CMakeFiles/folders7.dir/bai4.c.obj	933102ebd23348a7
+16	114	7170897664533376	CMakeFiles/folders7.dir/vd5.c.obj	f47255bd16cb95b7
+9	119	7170897664624428	CMakeFiles/folders7.dir/vd4.c.obj	bbb2f456f6601143
+1	68	7170901360743169	CMakeFiles/folders7.dir/vd1.c.obj	956361c936719119
